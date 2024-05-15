@@ -30,7 +30,7 @@
 
   ``` C#
   public class Database
-{
+  {
     private string connectionString;
 
     public Database(string dbPath)
@@ -61,6 +61,5 @@
             }
         }
     }
-}
-```
+  }
 
